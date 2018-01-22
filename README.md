@@ -1,2 +1,2 @@
 # uOTTAHACK
-hackathon tings
+hackaTHOTn tings
